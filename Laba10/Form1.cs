@@ -48,6 +48,11 @@ namespace Lab10
             }
            
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 
     class Dice
